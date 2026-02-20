@@ -15,7 +15,11 @@ The system leverages Large Language Models (LLMs) and Retrieval-Augmented Genera
 - Activity (play) suggestions
 - Related educational video recommendations
 
-This project was developed for the Business Big Data course as a final project.
+---
+
+## 🏫 Academic Context
+
+Developed in Spring 2025 for the Business Big Data course.
 
 ---
 
