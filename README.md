@@ -55,7 +55,7 @@ Key technical components:
 ### 1️⃣ Dialogue Guidance
 - Categorizes conversation into planning, recall, and free discussion
 - Encourages positive response strategies
-- Avoids harmful reaction types (e.g., blame, correction overload)
+- Avoids harmful reaction types (e.g. blame, correction overload)
 
 ### 2️⃣ Parenting Knowledge Retrieval
 - Uses embedded Q&A dataset derived from official parenting guides
@@ -73,12 +73,15 @@ Key technical components:
 ---
 
 ## 📂 Repository Structure
+```bash
 nolbot-llm-chatbot/
 ├── README.md
 ├── notebooks/
 │   └── team5_nolbot.ipynb
 ├── slides/
 │   └── nolbot-presentation.pdf
+
+---
 
 ## 👥 Team
 
