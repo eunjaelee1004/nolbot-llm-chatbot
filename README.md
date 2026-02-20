@@ -80,7 +80,7 @@ nolbot-llm-chatbot/
 │   └── team5_nolbot.ipynb
 ├── slides/
 │   └── nolbot-presentation.pdf
-
+```
 ---
 
 ## 👥 Team
